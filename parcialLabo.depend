@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1621435511 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1621431547 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\validaciones.h
+
+1621435726 source:c:\users\pc\desktop\proyectos_codeblocks\parciallabo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"validaciones.h"
+
+1621435775 c:\users\pc\desktop\proyectos_codeblocks\parciallabo\funciones.h
+
